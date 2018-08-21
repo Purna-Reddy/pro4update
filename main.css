@@ -1,0 +1,19 @@
+p{
+	font-family: sans-serif;
+	font-size: 20px;
+}
+li{
+	font-size: 20px;
+}
+header{
+	text-align: center;
+  font-family: 'Oswald', Helvetica, sans-serif;
+  font-size: 80px;
+  transform: skewY(0deg);
+  letter-spacing: 4px;
+  word-spacing: -8px;
+  color: tomato;
+  font-weight: 10px;
+
+ 
+}
